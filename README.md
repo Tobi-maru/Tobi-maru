@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Mount Annapurna" width="380" src="https://raw.githubusercontent.com/tobi-maru/tobi-maru/main/annapurna.jpg"/>
 
 ### 🧑‍💻 About Me
 
