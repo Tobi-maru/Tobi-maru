@@ -15,7 +15,7 @@
 - 👯 I'm looking to collaborate on **projects related to AI**
 - 💬 Ask me about **Linux ecosystem**
 - 📫 Reach me at **[sharmasheershak.04@gmail.com](mailto:sharmasheershak.04@gmail.com)**
-- ⚡ Fun fact: **I use Arch btw** 🐧
+
 
 <br/><br/><br/><br/>
 
