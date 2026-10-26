@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Go**
 - 👯 I'm looking to collaborate on **projects related to AI**
 - 💬 Ask me about **Linux ecosystem**
-- 📫 Reach me at **[sharmasheershak.04@gmail.com](mailto:sharmasheershak.04@gmail.com)**
+- 📫 Reach me at **[sharmasheershak26@gmail.com](mailto:sharmasheershak26@gmail.com)**
 
 
 <br/><br/><br/><br/>
